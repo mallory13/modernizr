@@ -8,6 +8,14 @@
 
 /* property or element 1 */
 
+.no-picture .box #modernizr-css{ 
+    background-color: red; 
+    }
+.picture .box #modernizr-css{ 
+    background-color: green; 
+    }
+
+
 /* property or element 2 */
 
 /* property or element 3 */
