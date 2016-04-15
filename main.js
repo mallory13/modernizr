@@ -1,0 +1,1 @@
+// property or element JavaScript detection with optional Polyfill
